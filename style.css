@@ -166,12 +166,14 @@ header h1{
     .qr-code img{
       width: 150px;
     }  
-  }  
+  } 
+
 .footer{
   text-align: center;
+
 }
   .footer .subhankar {
-    
+
     color: #000;
     font-weight: 700;
     cursor: pointer;
