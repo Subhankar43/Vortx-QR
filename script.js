@@ -1,3 +1,11 @@
+/*
+
+Written BY  Vortx ..... Enjoy :)
+
+😁 Don't forget to give the credit 😁
+
+*/
+
 const wrapper = document.querySelector(".wrapper"),
 qrInput = wrapper.querySelector(".form input"),
 generateBtn = wrapper.querySelector(".form button"),
