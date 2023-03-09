@@ -36,18 +36,18 @@ body{
     height: 345px;
     max-width: 410px;
     background: #fff;
-    border-radius: 7px;
+    border-radius: 10px;
     padding: 20px 25px 0;
     transition: height 0.2s ease;
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
     
 }
 .wrapper.active{
-  height: 565px;
+  height: 585px;
 }
 
 .glow::before, .glow::after{
- border-radius: 7px;
+ border-radius: 10px;
  content: '';
  position: absolute;
  left: -2px;
@@ -150,7 +150,7 @@ header h1{
       padding: 16px 20px;
     }
     .wrapper.active{
-      height: 555px;
+      height: 584px;
     }
     header p{
       color: #696969;
